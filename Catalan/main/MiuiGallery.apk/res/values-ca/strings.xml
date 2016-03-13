@@ -953,9 +953,6 @@
   <string name="picker_no_album_selected">Cap àlbum seleccionat</string>
   <string name="picker_no_items_selected">Cap article seleccionat</string>
   <string name="picker_select_album_title_empty">Seleccioneu un àlbum</string>
-  <string name="picker_tab_cloud">@string/home_page_tab_cloud</string>
-  <string name="picker_tab_face">@string/home_page_tab_face</string>
-  <string name="picker_tab_local">@string/home_page_tab_local</string>
   <string name="picker_tab_photo">Foto</string>
   <string name="pocket_camera_picture">Fotos Pocket Camera</string>
   <string name="pocket_camera_video">Vídeos Pocket Camera</string>
@@ -1049,14 +1046,8 @@
   <string name="sepia">Sèpia</string>
   <string name="set_as_baby_lock_wallpaper">Utilitzar com a fons de pantalla de bloqueig</string>
   <string name="set_baby_icon_picker_default_title">Establir icona de nadó</string>
-  <string name="set_bg_cloud_space_full_message">@string/add_to_cloud_space_full_message</string>
-  <string name="set_bg_exceeded_the_size_message">@string/add_to_cloud_exceeded_the_size_message</string>
   <string name="set_bg_file_exist_message">Aquest element ja existeix</string>
-  <string name="set_bg_file_not_exist_message">@string/file_not_exist_message</string>
-  <string name="set_bg_image_limit_exceeded_message">@string/add_to_cloud_image_limit_exceeded_message</string>
-  <string name="set_bg_local_space_full_message">@string/add_to_cloud_local_space_full_message</string>
   <string name="set_bg_picker_default_title">Establir miniatura superior</string>
-  <string name="set_bg_type_not_support_message">@string/add_to_cloud_type_not_support_message</string>
   <string name="set_bg_unknow_reasons">Error desconegut</string>
   <string name="set_hidden_album">Àlbum ocult</string>
   <string name="set_label_all_albums">Tot</string>
